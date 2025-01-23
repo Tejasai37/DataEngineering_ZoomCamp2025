@@ -73,7 +73,10 @@ volumes:
 - postgres:5432
 - db:5432
 
-
+**Answer:**
+```bash
+db:5433
+```
 ##  Prepare Postgres
 
 Run Postgres and load data as shown in the videos
