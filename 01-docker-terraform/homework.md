@@ -26,6 +26,8 @@ What's the version of `pip` in the image?
 - 23.2.1
 
 **Answer:**
+
+- 24.3.1
 ```bash
 docker run -it --entrypoint=bash python:3.12.8
 ```
