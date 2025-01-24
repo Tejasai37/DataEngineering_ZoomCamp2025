@@ -114,6 +114,16 @@ Answers:
 - 104,793;  202,661;  109,603;  27,678;  35,189
 - 104,838;  199,013;  109,645;  27,688;  35,202
 
+**Answer**
+
+- 104,802;  198,924;  109,603;  27,678;  35,189
+
+![Answer_03(1of5)](https://github.com/user-attachments/assets/e3499a53-ab3d-4064-9b2a-9266cf70cc56)
+![Answer_03(2of5)](https://github.com/user-attachments/assets/4730cc80-98a1-4eee-a969-025c272ca6da)
+![Answer_03(3of5)](https://github.com/user-attachments/assets/aea1d5ce-7695-4e75-be39-8a1111a22f19)
+![Answer_03(4of5)](https://github.com/user-attachments/assets/1c98863a-b7b0-4c47-9cc5-2ea1c265c7fd)
+![Answer_03(5of5)](https://github.com/user-attachments/assets/ac3d085d-0a9a-40e7-940c-76e2cc5b7ee2)
+
 
 ## Question 4. Longest trip for each day
 
@@ -127,6 +137,11 @@ Tip: For every day, we only care about one single trip with the longest distance
 - 2019-10-26
 - 2019-10-31
 
+**Answer**
+
+- 2019-10-31
+
+![Answer_04](https://github.com/user-attachments/assets/09d37296-152d-4ad1-bec5-f6bb43bf2cd3)
 
 ## Question 5. Three biggest pickup zones
 
@@ -140,6 +155,11 @@ Consider only `lpep_pickup_datetime` when filtering by date.
 - Morningside Heights, Astoria Park, East Harlem South
 - Bedford, East Harlem North, Astoria Park
 
+**Answer**
+
+- East Harlem North, East Harlem South, Morningside Heights
+
+![Answer_05](https://github.com/user-attachments/assets/a8b7c9c7-db85-4534-bb44-30a8c81f8c9b)
 
 ## Question 6. Largest tip
 
@@ -156,6 +176,10 @@ We need the name of the zone, not the ID.
 - East Harlem North
 - East Harlem South
 
+**Answer**
+- JFK Airport
+
+![Answer_06](https://github.com/user-attachments/assets/e0a15624-6373-4dfe-9d68-9aaa499efe51)
 
 ## Terraform
 
