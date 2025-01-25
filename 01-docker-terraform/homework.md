@@ -208,6 +208,8 @@ Answers:
 - terraform init, terraform apply -auto-aprove, terraform destroy
 - terraform import, terraform apply -y, terraform rm
 
+**Answer**
+- terraform init, terraform apply -auto-aprove, terraform destroy
 
 ## Submitting the solutions
 
